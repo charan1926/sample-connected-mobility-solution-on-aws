@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-connected-mobility-solution-on-aws
+  annotations:
+    github.com/project-slug: charan1926/sample-connected-mobility-solution-on-aws
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
